@@ -1,3 +1,8 @@
+#VERY MESSY. Workflow is somewhat in this order, though nearing the end while creating outputs things got quite messy.
+#My apologies.
+
+#****TITLES NOT ALWAYS REPRESENTATIVE OF TASK THEY ARE EXECUTING...
+
 # Data Prep ---------------------------------------------------------------
 install.packages("sf")
 install.packages("plyr")
